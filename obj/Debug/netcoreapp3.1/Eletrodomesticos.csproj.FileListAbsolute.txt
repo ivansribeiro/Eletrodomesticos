@@ -1,0 +1,11 @@
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.exe
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.deps.json
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.runtimeconfig.json
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.runtimeconfig.dev.json
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.dll
+C:\repo\Eletrodomesticos\bin\Debug\netcoreapp3.1\Eletrodomesticos.pdb
+C:\repo\Eletrodomesticos\obj\Debug\netcoreapp3.1\Eletrodomesticos.csprojAssemblyReference.cache
+C:\repo\Eletrodomesticos\obj\Debug\netcoreapp3.1\Eletrodomesticos.AssemblyInfoInputs.cache
+C:\repo\Eletrodomesticos\obj\Debug\netcoreapp3.1\Eletrodomesticos.AssemblyInfo.cs
+C:\repo\Eletrodomesticos\obj\Debug\netcoreapp3.1\Eletrodomesticos.dll
+C:\repo\Eletrodomesticos\obj\Debug\netcoreapp3.1\Eletrodomesticos.pdb
